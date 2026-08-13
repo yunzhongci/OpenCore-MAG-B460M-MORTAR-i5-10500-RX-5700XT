@@ -1,5 +1,7 @@
-# OpenCore-MAG-B460M-MORTAR-i5-10500-RX-5700XT
-微星B460M 迫击炮 ，i5-10400，迪兰恒进RX 6600XT 8G 完美黑苹果。
+
+
+# OpenCore-MAG-B460M-MORTAR-i5-10500-RX-6600XT
+微星B460M 迫击炮 ，i5-10500，迪兰恒进RX 6600XT 8G 完美黑苹果。
 
 ⚠️** 如果使用我的配置，请自行替换三码。**
 
